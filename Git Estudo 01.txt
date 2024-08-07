@@ -1,1 +1,3 @@
 Continuando ...
+
+Essa é uma linha feita para aprender a enviar uma atualização para o GIT HUB 
